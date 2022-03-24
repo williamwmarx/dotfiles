@@ -48,6 +48,7 @@ dockutil --add /Applications/1Password.app
 # Move files
 mv .vimrc ~/
 mv .zshrc ~/
+mv .gitconfig ~/
 mv wwm.zsh-theme ~/.oh-my-zsh/themes/
 mv kitty.conf ~/.config/kitty/
 mv clear-format.sh ~/.raycast/tools/
